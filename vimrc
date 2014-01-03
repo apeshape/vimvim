@@ -14,7 +14,7 @@ filetype plugin indent on
 
 au BufReadPost *.twig colorscheme koehler 
 au BufReadPost *.css colorscheme slate 
-au BufReadPost *.js colorscheme elflord 
+au BufReadPost *.js colorscheme monokai
 au BufReadPost *.py colorscheme molokai
 au BufReadPost *.html colorscheme monokai
 au BufReadPost *.java colorscheme monokai
