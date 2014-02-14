@@ -12,7 +12,6 @@ set expandtab
 filetype on
 filetype plugin indent on
 
-#här är lite grejer
 au BufReadPost *.twig colorscheme koehler 
 au BufReadPost *.css colorscheme slate 
 au BufReadPost *.js colorscheme monokai
